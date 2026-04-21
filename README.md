@@ -3,7 +3,7 @@
 ## Hi, I'm Lachlan 👋
 
 -   ⚽️ Sports Scientist
--   👨‍💻Learning R + data analysis
+-   👨‍💻Dabbling in R + data analysis
 -   🚀Interested in human performance (team sport, HIIT)
 
 ## Current projects
